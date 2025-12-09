@@ -1,0 +1,110 @@
+ * {cursor: url(https://cur.cursors-4u.net/cursors/cur-11/cur1039.cur), auto !important;} 
+
+body{
+
+background-image: url(images/tumblr_oc4tfzrD841u6u4wro1_500.webp);
+background-size: cover;
+}
+
+#header{
+
+color: hwb(0 100% 0%);
+font-family: sans-serif;
+ text-shadow: 2px 2px 5px hwb(0 100% 0%);
+    
+}
+
+#volume8{
+color: lab(100% 0.01 -0.01);
+font-family: sans-serif;
+
+ text-shadow: 2px 2px 5px hwb(0 100% 0%);
+    
+}
+
+
+
+#volume8:hover{
+
+    text-decoration: wavy;
+    letter-spacing: 2px;
+    font-size: large;
+    color: hsl(263, 77%, 55%);
+}
+
+
+#video{
+
+
+margin-left: -30%;
+
+
+}
+
+
+
+#hi{
+
+ font-family: "Jersey 10", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color: hwb(0 100% 0%);
+  width: 30%;
+   text-shadow: 2px 2px 5px lab(0% 0 0);
+
+
+}
+
+#first{
+
+
+
+
+     font-family: "Jersey 10", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color: hwb(0 100% 0%);
+  width: 30%;
+   text-shadow: 2px 2px 5px lab(0% 0 0);
+
+
+}
+
+#music{
+
+
+   font-family: "Jersey 10", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color: hwb(0 100% 0%);
+  width: 30%;
+   text-shadow: 2px 2px 5px lab(0% 0 0);
+
+
+}
+
+#alone{
+
+
+ font-family: "Jersey 10", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color: hwb(0 100% 0%);
+  width: 10%;
+   text-shadow: 2px 2px 5px lab(0% 0 0);
+   
+   margin-top: -15%;
+
+}
+
+#love{
+
+
+ font-family: "Jersey 10", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color: hwb(0 100% 0%);
+  width: 30%;
+   text-shadow: 2px 2px 5px lab(0% 0 0);
+
+}
